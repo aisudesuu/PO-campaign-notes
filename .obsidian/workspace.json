@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "da7aad2059488516",
+    "type": "split",
+    "children": [
+      {
+        "id": "93eceffa75c02c9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c6f4f61fa6e0598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Party/Khalil Burnwood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Khalil Burnwood"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f72d29aed4b9530f",
+    "type": "split",
+    "children": [
+      {
+        "id": "54d08915c382d071",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96500bdffbc101d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e5097797f8be78b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e129ef089e01496e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "a896d1bd50467be6",
+    "type": "split",
+    "children": [
+      {
+        "id": "68824f875782af5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49dd3aa5bdfad17d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Islands/Rauve/People/Mika Brightfall.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Mika Brightfall"
+            }
+          },
+          {
+            "id": "134599925a4f682b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "16754c92853fc82c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c252ac2928e2a2fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Islands/Rauve/People/Mika Brightfall.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mika Brightfall"
+            }
+          },
+          {
+            "id": "b1b7bb3b15e9aaee",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3c6f4f61fa6e0598",
+  "lastOpenFiles": [
+    "Party/Khalil Burnwood.md",
+    "Party/Azreal.md",
+    "Management/Images/Cillund_Map.png",
+    "Management/Plot Hooks.md",
+    "power-outage-notes/Party/Yomu.md",
+    "power-outage-notes/Party/Tank.md",
+    "power-outage-notes/Party/Sunny.md",
+    "power-outage-notes/Party/Khalil Burnwood.md",
+    "power-outage-notes/Party/Desmond.md",
+    "power-outage-notes/Party/Azreal.md",
+    "power-outage-notes/Party/Aki.md",
+    "power-outage-notes/Party",
+    "power-outage-notes/Management/Images/Cillund_Map.png",
+    "power-outage-notes/Management/Plot Hooks.md",
+    "power-outage-notes/Management/Images",
+    "power-outage-notes/Management",
+    "power-outage-notes/Islands/Mugerie/People/Burnwood Family/Spencer Burnwood Sr..md",
+    "power-outage-notes/Islands/Mugerie/People/Burnwood Family/Burnwood Family.md",
+    "power-outage-notes/Islands/Mugerie/People/Burnwood Family/Alice Burnwood.md",
+    "power-outage-notes/Islands/Mugerie/People/Burnwood Family",
+    "power-outage-notes/Islands/Rauve/Places/The Sea Dog.md",
+    "power-outage-notes/Islands/Rauve/Places/Temple of the Twin Gods.md",
+    "power-outage-notes/Islands/Rauve/Places/Selunde.md",
+    "power-outage-notes/Islands/Rauve/Places/Grassy Lamb Inn.md",
+    "power-outage-notes/Islands/Rauve/People/Zakvul Gaia.md",
+    "power-outage-notes/Islands/Rauve/People/Mika Brightfall.md",
+    "power-outage-notes/Islands/Rauve/People/Stuah Srupmi.md",
+    "power-outage-notes/Islands/Rauve/People/Kvosh Stormgrip.md",
+    "power-outage-notes/Islands/Rauve/People/Junihar Surmei.md",
+    "power-outage-notes/Islands/Rauve/People/Goblin Group.md",
+    "power-outage-notes/Islands/Rauve/People/Elm Root.md",
+    "power-outage-notes/Islands/Marsontara/Places",
+    "power-outage-notes/Islands/Marsontara/People",
+    "power-outage-notes/Islands/Marsontara/Marsontara.md",
+    "power-outage-notes/Islands/Mugerie/Places",
+    "power-outage-notes/Islands/Mugerie/People",
+    "power-outage-notes/Islands/Rauve/Places",
+    "power-outage-notes/Islands/Rauve/People",
+    "Management/Untitled.canvas",
+    "power-outage-notes/Images/Cillund_Map.png",
+    "Untitled.canvas",
+    "MainAfter.webp",
+    "Untitled 1.canvas"
+  ]
+}
