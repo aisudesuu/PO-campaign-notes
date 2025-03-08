@@ -18,6 +18,7 @@ Traits
 Dance Types
 - Ocean : Sadness, Big, Wavy Movements
 - Lightning : Excitement, Fast, Jerky Movements
+- Wood : Patience, Slow, Solid Movements
 
 
 Impactful Words
