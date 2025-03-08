@@ -194,7 +194,7 @@
                 "calendar": "ID_4b782a4829d9",
                 "ephemeral": {
                   "viewing": {
-                    "day": 3,
+                    "day": 1,
                     "month": 4,
                     "year": 943
                   },
@@ -240,8 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,7 +254,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3c6f4f61fa6e0598",
+  "active": "3722211f775a0d85",
   "lastOpenFiles": [
     "Islands/Rauve/People/Zakvul Gaia.md",
     "Islands/Rauve/People/Stuah Srupmi.md",

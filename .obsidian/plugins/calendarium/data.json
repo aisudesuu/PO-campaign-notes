@@ -341,6 +341,23 @@
             "order": "",
             "timestamp": 0
           }
+        },
+        {
+          "name": "Strange Beam of Light",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 4,
+            "year": 943
+          },
+          "id": "ID_a8e9bb8b2a08",
+          "note": null,
+          "category": "campaign-progression",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "categories": [
