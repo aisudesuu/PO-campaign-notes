@@ -87,7 +87,7 @@
       {
         "id": "68824f875782af5f",
         "type": "tabs",
-        "dimension": 49.8062015503876,
+        "dimension": 63.372093023255815,
         "children": [
           {
             "id": "96700aa856547106",
@@ -194,11 +194,11 @@
                 "calendar": "ID_4b782a4829d9",
                 "ephemeral": {
                   "viewing": {
-                    "day": 20,
-                    "month": 3,
+                    "day": 3,
+                    "month": 4,
                     "year": 943
                   },
-                  "viewState": 1,
+                  "viewState": 0,
                   "displaying": {
                     "day": 24,
                     "month": 3,
@@ -220,7 +220,7 @@
       {
         "id": "a43e223f5d8d5581",
         "type": "tabs",
-        "dimension": 50.1937984496124,
+        "dimension": 36.627906976744185,
         "children": [
           {
             "id": "2837c5655a7f2007",
@@ -240,8 +240,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,7 +254,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3c6f4f61fa6e0598",
+  "active": "3722211f775a0d85",
   "lastOpenFiles": [
     "Islands/Rauve/Places/The Sea Dog.md",
     "Islands/Rauve/Rauve.md",
