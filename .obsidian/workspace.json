@@ -240,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,7 +255,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3722211f775a0d85",
+  "active": "3c6f4f61fa6e0598",
   "lastOpenFiles": [
     "Islands/Rauve/People/Zakvul Gaia.md",
     "Islands/Rauve/People/Stuah Srupmi.md",
