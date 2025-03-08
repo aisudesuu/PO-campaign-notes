@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management/Plot Hooks.md",
+                "file": "Party/Khalil Burnwood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plot Hooks"
+              "title": "Khalil Burnwood"
             }
           }
         ]
@@ -207,8 +207,7 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_fb9ad8e86b4b",
-                "child": "ID_392a9b6ac8fb"
+                "id": "ID_fb9ad8e86b4b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -228,7 +227,6 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
-                "calendar": "ID_4b782a4829d9",
                 "id": "ID_392a9b6ac8fb",
                 "parent": "ID_fb9ad8e86b4b"
               },
@@ -254,10 +252,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3722211f775a0d85",
+  "active": "96500bdffbc101d3",
   "lastOpenFiles": [
-    "Islands/Rauve/People/Goblin Group.md",
     "Management/Plot Hooks.md",
+    "Islands/Rauve/People/Goblin Group.md",
     "Party/Khalil Burnwood.md",
     "Party/Sunny.md",
     "Party/Azreal.md",
