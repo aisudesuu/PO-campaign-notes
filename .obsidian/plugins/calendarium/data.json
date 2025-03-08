@@ -1,10 +1,374 @@
 {
   "autoParse": false,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Calendar of The Everlasting Archipelago",
+      "description": null,
+      "id": "ID_4b782a4829d9",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Arun",
+            "id": "ID_5a29f80b1b99",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Gerun",
+            "id": "ID_e9090aa808eb",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Sarun",
+            "id": "ID_093839c8d828",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Ierun",
+            "id": "ID_798bd8f83a8a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Nerun",
+            "id": "ID_99db98ebc978",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Hirun",
+            "id": "ID_4bf95a7a0919",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Qirun",
+            "id": "ID_4b09fb68abeb",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Rozsuiem - Month 1",
+            "type": "month",
+            "length": 28,
+            "id": "ID_fa98792bdbeb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Requiem - Month 2",
+            "type": "month",
+            "length": 28,
+            "id": "ID_cbcac8fb2af9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Shinum - Month 3",
+            "type": "month",
+            "length": 28,
+            "id": "ID_7aaa39b859b9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Haranum - Month 4",
+            "type": "month",
+            "length": 28,
+            "id": "ID_19693aab395a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Uhanum - Month 5",
+            "type": "month",
+            "length": 28,
+            "id": "ID_283abb490a1a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Malonum - Month 6",
+            "type": "month",
+            "length": 28,
+            "id": "ID_09a97bb93ada",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Kalatas - Month 7",
+            "type": "month",
+            "length": 28,
+            "id": "ID_f9faf97b4858",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Deitas - Month 8",
+            "type": "month",
+            "length": 28,
+            "id": "ID_f81a99ab09aa",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Galdutas - Month 9",
+            "type": "month",
+            "length": 28,
+            "id": "ID_6bc9892a8b9a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Wyrmio - Month 10",
+            "type": "month",
+            "length": 28,
+            "id": "ID_ba8a0a5a2a39",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Khavio - Month 11",
+            "type": "month",
+            "length": 28,
+            "id": "ID_e84828db78ca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Enxenio - Month 12",
+            "type": "month",
+            "length": 28,
+            "id": "ID_5928b838cb3b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Runiem - Month 13",
+            "type": "month",
+            "length": 28,
+            "id": "ID_da7b4bf8486b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": []
+      },
+      "current": {
+        "day": 24,
+        "month": 3,
+        "year": 943
+      },
+      "events": [
+        {
+          "name": "First Day of Winter",
+          "description": "",
+          "id": "2824090",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": 1,
+            "month": 12
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "First Day of Spring",
+          "description": "",
+          "id": "2824091",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": 1,
+            "month": 2
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "First Day of Summer",
+          "description": "",
+          "id": "2824092",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": 1,
+            "month": 6
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "First Day of Autumn",
+          "description": "",
+          "id": "2824093",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": 1,
+            "month": 9
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Beginning of the Story!",
+          "description": "",
+          "id": "2824103",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 12,
+            "year": 943,
+            "month": 3
+          },
+          "category": "campaign-progression",
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Desmond Birthday! (Not Known by Party)",
+          "description": "",
+          "id": "2862218",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 20,
+            "year": 943,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Tank Birthday! (Not Known by Party)",
+          "description": "",
+          "id": "2862219",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 28,
+            "year": 1,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Khalil's Birthday! (VERY Known by Party)",
+          "description": "",
+          "id": "2878141",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 20,
+            "year": 943,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Yomu's Birthday! (Not Known by Party)",
+          "description": "",
+          "id": "2878142",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 10,
+            "year": 943,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Aki's Birthday! (Not Known by Party)",
+          "description": "",
+          "id": "2928079",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 17,
+            "year": 943,
+            "month": 6
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [
+        {
+          "name": "Campaign Progression",
+          "id": "campaign-progression",
+          "color": "#006064"
+        },
+        {
+          "name": "Sessions",
+          "id": "sessions",
+          "color": "#7CB342"
+        },
+        {
+          "name": "Birthdays!",
+          "id": "birthdays!",
+          "color": "#FFEB3B"
+        }
+      ],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_4b782a4829d9",
   "eventPreview": false,
   "exit": {
     "saving": false,

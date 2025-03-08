@@ -87,6 +87,7 @@
       {
         "id": "68824f875782af5f",
         "type": "tabs",
+        "dimension": 49.8062015503876,
         "children": [
           {
             "id": "96700aa856547106",
@@ -166,12 +167,76 @@
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_4b782a4829d9",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 24,
+                    "month": 3,
+                    "year": 943
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_7bdb9ba8ea6a"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "3722211f775a0d85",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_4b782a4829d9",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 20,
+                    "month": 3,
+                    "year": 943
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 24,
+                    "month": 3,
+                    "year": 943
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_fb9ad8e86b4b",
+                "child": "ID_392a9b6ac8fb"
+              },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
+      },
+      {
+        "id": "a43e223f5d8d5581",
+        "type": "tabs",
+        "dimension": 50.1937984496124,
+        "children": [
+          {
+            "id": "2837c5655a7f2007",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_4b782a4829d9",
+                "id": "ID_392a9b6ac8fb",
+                "parent": "ID_fb9ad8e86b4b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -189,7 +254,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "11499e06b90b473e",
+  "active": "3722211f775a0d85",
   "lastOpenFiles": [
     "Islands/Rauve/People/Goblin Group.md",
     "Management/Plot Hooks.md",
