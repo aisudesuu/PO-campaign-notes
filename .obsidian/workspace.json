@@ -207,7 +207,8 @@
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_fb9ad8e86b4b"
+                "id": "ID_fb9ad8e86b4b",
+                "child": "ID_392a9b6ac8fb"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -227,6 +228,7 @@
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
+                "calendar": "ID_4b782a4829d9",
                 "id": "ID_392a9b6ac8fb",
                 "parent": "ID_fb9ad8e86b4b"
               },
@@ -238,7 +240,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 274.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,11 +255,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "96500bdffbc101d3",
+  "active": "3c6f4f61fa6e0598",
   "lastOpenFiles": [
+    "Islands/Rauve/Places/The Sea Dog.md",
+    "Islands/Rauve/Rauve.md",
     "Management/Plot Hooks.md",
-    "Islands/Rauve/People/Goblin Group.md",
+    "Islands/Mugerie/People/Burnwood Family/Burnwood Family.md",
     "Party/Khalil Burnwood.md",
+    "Islands/Rauve/People/Goblin Group.md",
     "Party/Sunny.md",
     "Party/Azreal.md",
     "Management/Images/Cillund_Map.png",
@@ -283,9 +289,6 @@
     "power-outage-notes/Islands/Rauve/People/Zakvul Gaia.md",
     "power-outage-notes/Islands/Rauve/People/Mika Brightfall.md",
     "power-outage-notes/Islands/Rauve/People/Stuah Srupmi.md",
-    "power-outage-notes/Islands/Rauve/People/Kvosh Stormgrip.md",
-    "power-outage-notes/Islands/Rauve/People/Junihar Surmei.md",
-    "power-outage-notes/Islands/Rauve/People/Goblin Group.md",
     "power-outage-notes/Islands/Marsontara/Places",
     "power-outage-notes/Islands/Marsontara/People",
     "power-outage-notes/Islands/Mugerie/Places",

@@ -4,7 +4,6 @@ My Character !!
 	Basics
 	- Genetics // Mostly Human, Equally minutely Elf and Dwarf
 	- Age //  33 (20)
-	- Description // 
 
 
 Relationships
