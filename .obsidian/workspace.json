@@ -194,7 +194,7 @@
                 "calendar": "ID_4b782a4829d9",
                 "ephemeral": {
                   "viewing": {
-                    "day": 1,
+                    "day": 11,
                     "month": 4,
                     "year": 943
                   },
@@ -251,8 +251,7 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "calendarium:Open Calendarium": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3c6f4f61fa6e0598",
