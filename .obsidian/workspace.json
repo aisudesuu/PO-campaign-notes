@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management/The Wayfinder.md",
+                "file": "Party/Sybil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Wayfinder"
+              "title": "Sybil"
             }
           }
         ]
@@ -256,16 +256,16 @@
   },
   "active": "3c6f4f61fa6e0598",
   "lastOpenFiles": [
+    "Party/Aki.md",
+    "Party/Sunny.md",
+    "Party/Yomu.md",
+    "Management/The Wayfinder.md",
     "Management/Plot Hooks.md",
     "Party/Desmond.md",
     "Party/Khalil Burnwood.md",
     "Management/Images/the_wayfinder.png",
     "Management/Images/Untitled.md",
     "Management/Images/Cillund_Map.png",
-    "Management/The Wayfinder.md",
-    "Party/Sunny.md",
-    "Party/Yomu.md",
-    "Party/Aki.md",
     "Party/Sybil.md",
     "Party/Azreal.md",
     "Islands/Rauve/Rauve.md",

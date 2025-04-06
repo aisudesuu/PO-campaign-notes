@@ -5,3 +5,4 @@ Description //
 
 Lore //
 - Heir to the Occult house of Arcaterion
+- Sybil is her middle name
