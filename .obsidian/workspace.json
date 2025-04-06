@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Islands/Forsalee/Places/ASTEA Headquarters.md",
+                "file": "Islands/Forsalee/People/John Bone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASTEA Headquarters"
+              "title": "John Bone"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Islands/Forsalee/Places/ASTEA Headquarters.md",
+                "file": "Islands/Forsalee/People/John Bone.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ASTEA Headquarters"
+              "title": "Outline of John Bone"
             }
           },
           {
@@ -233,6 +233,8 @@
   },
   "active": "3c6f4f61fa6e0598",
   "lastOpenFiles": [
+    "Islands/Forsalee/People/Eons (Adventuring Party).md",
+    "Islands/Forsalee/People/John Bone.md",
     "Islands/Forsalee/Places/Justica.md",
     "Islands/Forsalee/Places/ASTEA Headquarters.md",
     "Management/Images/justica.png",
@@ -260,8 +262,6 @@
     "power-outage-notes/Party/Yomu.md",
     "power-outage-notes/Party/Tank.md",
     "power-outage-notes/Party/Sunny.md",
-    "power-outage-notes/Party/Khalil Burnwood.md",
-    "power-outage-notes/Party/Desmond.md",
     "power-outage-notes/Party",
     "power-outage-notes/Management/Images/Cillund_Map.png",
     "power-outage-notes/Management/Images",
