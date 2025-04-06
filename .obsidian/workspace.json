@@ -87,7 +87,7 @@
       {
         "id": "68824f875782af5f",
         "type": "tabs",
-        "dimension": 63.372093023255815,
+        "dimension": 60.65891472868217,
         "children": [
           {
             "id": "96700aa856547106",
@@ -153,36 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management/Plot Hooks.md",
+                "file": "Islands/Forsalee/Places/ASTEA Headquarters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plot Hooks"
-            }
-          },
-          {
-            "id": "11499e06b90b473e",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_4b782a4829d9",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 24,
-                    "month": 3,
-                    "year": 943
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_7bdb9ba8ea6a"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "title": "Outline of ASTEA Headquarters"
             }
           },
           {
@@ -194,7 +171,7 @@
                 "calendar": "ID_4b782a4829d9",
                 "ephemeral": {
                   "viewing": {
-                    "day": 11,
+                    "day": 18,
                     "month": 4,
                     "year": 943
                   },
@@ -214,12 +191,13 @@
               "title": "Calendarium"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "a43e223f5d8d5581",
         "type": "tabs",
-        "dimension": 36.627906976744185,
+        "dimension": 39.34108527131783,
         "children": [
           {
             "id": "2837c5655a7f2007",
