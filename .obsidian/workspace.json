@@ -214,8 +214,7 @@
               "title": "Calendarium"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "a43e223f5d8d5581",
@@ -254,7 +253,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3c6f4f61fa6e0598",
+  "active": "96700aa856547106",
   "lastOpenFiles": [
     "Party/Aki.md",
     "Party/Sunny.md",
